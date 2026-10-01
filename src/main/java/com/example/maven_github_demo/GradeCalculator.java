@@ -1,6 +1,6 @@
 package com.example.maven_github_demo;
 
-public class Hoshi {
+public class GradeCalculator {
 	public static int calculateTotal(int m1,int m2,int m3)
 	{
 		return m1+m2+m3;
